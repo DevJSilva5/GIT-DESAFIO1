@@ -1,0 +1,5 @@
+Nesta sprint, conseguimos organizar bem as tarefas utilizando branchs separadas, o que facilitou o controle das alterações. Além disso, o uso do Git/GitHub permitiu um bom gerenciamento das versões e evitou conflitos maiores.
+
+Por outro lado, enfrentamos algumas dificuldades no início, especialmente na configuração do repositório e na criação das branchs. Além disso, ocorreram pequenos erros na utilização dos comandos do Git, o que acabou gerando alguns atrasos.
+
+Para os próximos sprints, seria interessante praticar mais os comandos do Git para evitar dificuldades. Também podemos elaborar um guia com os principais passos do processo para agilizar o trabalho. Além disso, revisar as alterações antes de realizar o merge pode ajudar a minimizar erros e melhorar a qualidade do código final.
