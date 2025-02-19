@@ -1,0 +1,5 @@
+Tarefas da Sprint:
+
+ID 1: O que precisa ser feito - Mudar a cor do nome dos veículos para azul na página index. Esforço Estimado: [3/10]
+
+ID 3: O que precisa ser feito - Atualizar os nomes dos links na página contato para ficarem mais descritivos. Esforço Estimado: [4/10]
